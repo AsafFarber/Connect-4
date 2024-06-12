@@ -111,7 +111,6 @@ public class GridManager : MonoBehaviour
         if (counter >= 4) return true;
 
         return false;
-        //try
     }
     public void EndTurn()
     {
